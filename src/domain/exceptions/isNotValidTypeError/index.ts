@@ -1,0 +1,1 @@
+export { IsNotValidTypeError } from './isNotValidTypeError';

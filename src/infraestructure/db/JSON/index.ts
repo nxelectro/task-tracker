@@ -1,0 +1,1 @@
+export { InitDB } from './init';
